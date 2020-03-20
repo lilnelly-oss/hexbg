@@ -1,0 +1,16 @@
+.form{
+    position: relative;
+    left:45%;
+    margin-top:20%;
+}
+.app{
+    overflow: hidden;
+}
+.header{
+    position: relative;
+    left: 28%;
+}
+body{
+    background-color: #FF5733;
+}
+
